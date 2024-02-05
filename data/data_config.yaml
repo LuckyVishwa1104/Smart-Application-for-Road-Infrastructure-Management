@@ -1,0 +1,7 @@
+data : 'C:\Users\lvish\anaconda3\envs\crack-model\_final_code\data'
+
+train : 'C:\Users\lvish\anaconda3\envs\crack-model\_final_code\data\images\train'
+
+val : 'C:\Users\lvish\anaconda3\envs\crack-model\_final_code\data\images\val'
+
+nc : 1
